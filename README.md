@@ -17,6 +17,15 @@ Hi! My Name is Filippo, I am an Environmental Engineer specialized in weather an
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Carmelo-Belo&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Carmelo-Belo/Carmelo-Belo/output/snake.svg" alt="Snake animation" />
+
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
