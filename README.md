@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! My Name is Filippo, I am an Environmental Engineer specialized in weather and climate modelling. <br><br>
 
-🔭​ I am currently developing AI applications for extreme events detection, forecast, and attribution.<br>
+🔭​ I am currently developing AI applications for weather forecasting and extreme events characterization.<br>
 
 
 ## 🌐 Socials:
